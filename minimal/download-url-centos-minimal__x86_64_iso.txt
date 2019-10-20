@@ -1,0 +1,9 @@
+link: 
+	https://www.yandex.ru/centos/7/isos/x86_64/
+here:
+	dvd.iso
+	everything.iso
+	gnome.iso
+	kde.iso
+	minimal.iso
+	netinstall.iso
