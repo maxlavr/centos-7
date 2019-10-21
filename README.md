@@ -1,6 +1,6 @@
 # centos-7
-***
 this is minimal instuctions for OS Linux Centos-7-minimal
+***
 
 ## DESCRIPTION:
 
