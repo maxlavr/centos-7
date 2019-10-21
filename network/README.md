@@ -10,18 +10,19 @@ you can use 2 ways edit network settings
 1. ### NMTUI (NetworkManger TUI)
 	* edit a connection
 	![img1](./imgs/1.png)  
-	* <choose your interface> and press <Edit ...>
+	* choose your interface and press <Edit ...>
 	![img2](./imgs/2.png)
 	![img3](./imgs/3.png)  
 	* IPv4 CONFIGURATION: choose your
-		- if "automatic" scroll down and press <OK> 
-		![img3](./imgs/4.png)  
-		- else edit settings scroll down and press <OK>  
-		![img4](./imgs/5.png)  
+		- if "automatic" scroll down and press <OK...> 
+		![img4](./imgs/4.png)  
+		- else edit settings scroll down and press <OK...>  
+		![img5](./imgs/5.png)  
+		![img6](./imgs/6.png)  
 	* press <Back ...>  
-	![img5](./imgs/6.png)  
+	![img7](./imgs/7.png)  
 	* press <Quit ...>  
-	![img6](./imgs/7.png)  
+	![img8](./imgs/8.png)  
 
 #
 2. ### edit config file
