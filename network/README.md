@@ -14,12 +14,12 @@ you can use 2 ways edit network settings
 		- else edit settings scroll down and press <OK>
 	* press <Back ...>
 	* press <Quit ...>
----
+--
 2. edit config file
 	* stop NetworkManger.service
 	* nano vi "config file"
-	* edit config file(my config is manual)
-		- add:
+	* edit config file(my config is manual)  
+		- add:  
 			DEVICE=enp0s3  
 			ONBOOT=yes  
 			IPADDR=192.168.0.29  
