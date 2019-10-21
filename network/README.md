@@ -6,7 +6,7 @@ you can use 2 ways edit network settings
 	- enp0s3 my interface, your can diff
 ***
 ## Description
-1. NMTUI (graphical menu)
+1. ### NMTUI (graphical menu)
 	* edit a connection
 	* <choose your interface> and press <Edit ...>
 	* IPv4 CONFIGURATION: choose your
@@ -14,8 +14,8 @@ you can use 2 ways edit network settings
 		- else edit settings scroll down and press <OK>
 	* press <Back ...>
 	* press <Quit ...>
---
-2. edit config file
+***
+2. ### edit config file
 	* stop NetworkManger.service
 	* nano vi "config file"
 	* edit config file(my config is manual)  
