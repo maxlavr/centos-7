@@ -12,15 +12,16 @@ you can use 2 ways edit network settings
 	![img1](./imgs/1.png)  
 	* <choose your interface> and press <Edit ...>
 	![img2](./imgs/2.png)
+	![img3](./imgs/3.png)  
 	* IPv4 CONFIGURATION: choose your
 		- if "automatic" scroll down and press <OK> 
-		![img3](./imgs/3.png)  
+		![img3](./imgs/4.png)  
 		- else edit settings scroll down and press <OK>  
-		![img4](./imgs/4.png)  
+		![img4](./imgs/5.png)  
 	* press <Back ...>  
-	![img5](./imgs/5.png)  
+	![img5](./imgs/6.png)  
 	* press <Quit ...>  
-	![img6](./imgs/6.png)  
+	![img6](./imgs/7.png)  
 
 #
 2. ### edit config file
