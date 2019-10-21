@@ -3,4 +3,4 @@ Before install you need to be sure that your network connection is establish.
 ### Notice
 To check this you can try ping some services as yandex, google or if network not  
 establish you should configure it.  
-#### CONFIGURE NETWORK HELPER: ![link](http://github.com/maxlavr/centos-7/network)
+#### CONFIGURE NETWORK HELPER: ![HELPER LINK](../network)
