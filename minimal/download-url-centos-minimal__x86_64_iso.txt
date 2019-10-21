@@ -1,5 +1,5 @@
 link: 
-[linkiso](https://mirror.yandex.ru/centos/7/isos/x86_64/ "text")
+[linkiso]: https://mirror.yandex.ru/centos/7/isos/x86_64/ "text"
 here:
 	dvd.iso
 	everything.iso
