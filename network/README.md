@@ -29,13 +29,13 @@ you can use 2 ways edit network settings
 #
 2. ### edit config file
 	* type: stop all network services
-		- img10  
-		- img11  
-		- img12  
+		- ![img10](./imgs/10.png)  
+		- ![img11](./imgs/11.png)  
+		- ![img12](./imgs/12.png)  
 	* sudo vi "config file"
-		- img13  
+		- [img13](./imgs/13.png)  
 	* edit config file(my config is manual)  
-		img14  
+		![img14](./imgs/14.png)  
 		- add:  
 			DEVICE=enp0s3  
 			ONBOOT=yes  
@@ -43,6 +43,6 @@ you can use 2 ways edit network settings
 			PREFIX=24  
 			GATEWAY=192.168.0.1  
 	* sudo systemctl restart network services  
-		img15  
+		![img15](./imgs/15.png)  
 		- ping  
-		img16
+		![img16](./imgs/16.png)
