@@ -42,7 +42,7 @@ you can use 2 ways edit network settings
 			IPADDR=192.168.0.29  
 			PREFIX=24  
 			GATEWAY=192.168.0.1  
-	* sudo systemctl restart network services
+	* sudo systemctl restart network services  
 		img15  
 		- ping
 		img16
