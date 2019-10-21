@@ -1,8 +1,8 @@
 # centos-7
 ***
-## DESCRIPTION:
-
 this is minimal instuctions for OS Linux Centos-7-minimal
+
+## DESCRIPTION:
 
 * minimal
 * network
