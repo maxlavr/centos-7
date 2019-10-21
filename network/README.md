@@ -33,7 +33,7 @@ you can use 2 ways edit network settings
 		- ![img11](./imgs/11.png)  
 		- ![img12](./imgs/12.png)  
 	* sudo vi "config file"
-		- [img13](./imgs/13.png)  
+		- ![img13](./imgs/13.png)  
 	* edit config file(my config is manual)  
 		![img14](./imgs/14.png)  
 		- add:  
