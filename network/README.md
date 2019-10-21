@@ -11,11 +11,17 @@ you can use 2 ways edit network settings
 	* edit a connection
 	![img1](./imgs/1.png)  
 	* <choose your interface> and press <Edit ...>
+	![img2](./imgs/2.png)
 	* IPv4 CONFIGURATION: choose your
 		- if "automatic" scroll down and press <OK> 
-		- else edit settings scroll down and press <OK>
-	* press <Back ...>
-	* press <Quit ...>
+		![img3](./imgs/3.png)  
+		- else edit settings scroll down and press <OK>  
+		![img4](./imgs/4.png)  
+	* press <Back ...>  
+	![img5](./imgs/5.png)  
+	* press <Quit ...>  
+	![img6](./imgs/6.png)  
+
 #
 2. ### edit config file
 	* stop NetworkManger.service
