@@ -7,7 +7,8 @@ you can use 2 ways edit network settings
 ***
 ## Description
 1. ### NMTUI (graphical menu)
-	* edit a connection
+	* edit a connection  
+	![img1](./imgs/1.png)  
 	* <choose your interface> and press <Edit ...>
 	* IPv4 CONFIGURATION: choose your
 		- if "automatic" scroll down and press <OK> 
