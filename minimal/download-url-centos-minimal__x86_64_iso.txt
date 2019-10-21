@@ -1,5 +1,6 @@
 link: 
-	[link:](https://www.yandex.ru/centos/7/isos/x86_64/)
+	[linkcentos] []
+	[linkcentos]: https://www.yandex.ru/centos/7/isos/x86_64/)
 here:
 	dvd.iso
 	everything.iso
