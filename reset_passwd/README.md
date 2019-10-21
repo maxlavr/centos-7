@@ -9,6 +9,7 @@ how to reset password(root and etc.) in system using SELinux like Centos-7
 	* init=/bin/sh  
 	![img2](./imgs/2.png)  
 	- frst of all start init process, but now you tell: "init" please load shell "/bin/sh"   
+	* please type: CTRL+X, this is need to load
 3. ### Remout your "root /" to "ReadWrite":  
 	* mount -o remount,rw /  
 	![img3](./imgs/3.png)  
