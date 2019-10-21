@@ -20,9 +20,9 @@ you can use 2 ways edit network settings
 	* nano vi "config file"
 	* edit config file(my config is manual)
 		- add:
-			DEVICE=enp0s3
-			ONBOOT=yes
-			IPADDR=192.168.0.29
-			PREFIX=24
-			GATEWAY=192.168.0.1
+			DEVICE=enp0s3  
+			ONBOOT=yes  
+			IPADDR=192.168.0.29  
+			PREFIX=24  
+			GATEWAY=192.168.0.1  
 	* sudo systemctl restart NetworkManager.service
