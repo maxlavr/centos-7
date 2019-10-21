@@ -23,16 +23,26 @@ you can use 2 ways edit network settings
 	![img7](./imgs/7.png)  
 	* press <Quit ...>  
 	![img8](./imgs/8.png)  
+	* result
+	![img9](./imgs/9.png)  
 
 #
 2. ### edit config file
-	* stop NetworkManger.service
-	* nano vi "config file"
+	* type: stop all network services
+		- img10  
+		- img11  
+		- img12  
+	* sudo vi "config file"
+		- img13  
 	* edit config file(my config is manual)  
+		img14  
 		- add:  
 			DEVICE=enp0s3  
 			ONBOOT=yes  
 			IPADDR=192.168.0.29  
 			PREFIX=24  
 			GATEWAY=192.168.0.1  
-	* sudo systemctl restart NetworkManager.service
+	* sudo systemctl restart network services
+		img15  
+		- ping
+		img16
