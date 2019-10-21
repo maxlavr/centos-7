@@ -14,7 +14,7 @@ you can use 2 ways edit network settings
 		- else edit settings scroll down and press <OK>
 	* press <Back ...>
 	* press <Quit ...>
-***
+#
 2. ### edit config file
 	* stop NetworkManger.service
 	* nano vi "config file"
