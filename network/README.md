@@ -23,7 +23,7 @@ you can use 2 ways edit network settings
 	![img7](./imgs/7.png)  
 	* press <Quit ...>  
 	![img8](./imgs/8.png)  
-	* result
+	* result  
 	![img9](./imgs/9.png)  
 
 #
