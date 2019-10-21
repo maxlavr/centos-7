@@ -44,5 +44,5 @@ you can use 2 ways edit network settings
 			GATEWAY=192.168.0.1  
 	* sudo systemctl restart network services  
 		img15  
-		- ping
+		- ping  
 		img16
