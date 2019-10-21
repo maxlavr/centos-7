@@ -12,6 +12,6 @@ you can use 2 ways edit network settings
 	* IPv4 CONFIGURATION: choose your
 		- if "automatic" scroll down and press <OK> 
 		- else edit settings scroll down and press <OK>
-	* press <Back>
-	* press <Quit>
+	* press <Back ...>
+	* press <Quit ...>
 2. edit config file
