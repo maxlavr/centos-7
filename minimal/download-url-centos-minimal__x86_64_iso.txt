@@ -1,5 +1,5 @@
 link: 
-<https://mirror.yandex.ru/centos/7/isos/x86_64/>
+	https://mirror.yandex.ru/centos/7/isos/x86_64/
 here:
 	dvd.iso
 	everything.iso
