@@ -71,11 +71,10 @@
 
 
 	> sudo systemctl start network services  
-	> ip add
-	> nmctl -d
+	> ip add  
+	> nmctl -d  
+	> ping ya.ru  
 
 	![img15](./imgs/15.png)  
-			"ping" or "nmctl d"
 	![img15](./imgs/n3.png)  
-			check settings
 	![img16](./imgs/16.png)
