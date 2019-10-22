@@ -33,13 +33,12 @@
 	#
 		check your network status  
 
-	> ip add  
-	> nmcli d  
+	> $: ip add  
+	> $: nmcli d  
 
 	![imgn1](./imgs/n1.png)  
-
-	#  
-		network is disconnected
+  
+	> network is disconnected
 
 	#  
 		stop all network services  
