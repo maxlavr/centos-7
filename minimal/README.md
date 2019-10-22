@@ -39,5 +39,16 @@
 	![img2](./imgs/2.png)
 
 		now we see that repo EPEL is loaded and connect
+
+	### 3.2  
+		Lets isntall GUI. We need for this some gtouplist: "Development Tools", "X Window System"
+
+	> yum groupinstall "Development Tools"  
+	> yum groupinstall "X Window System"  
+	> yum groupinstall "Mate Desktop"
+
+		if you wanna start graphical interface type:
+
+	> systemctl isolite grephical.target  
 ###   
 ---  
