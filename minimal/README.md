@@ -41,7 +41,7 @@
 		now we see that repo EPEL is loaded and connect
 
 	### 3.2  
-		Lets isntall GUI. We need for this some gtouplist: "Development Tools", "X Window System"
+		Lets isntall GUI. We need for this some grouplist: "Development Tools", "X Window System"
 
 	> yum groupinstall "Development Tools"  
 	> yum groupinstall "X Window System"  
@@ -50,5 +50,9 @@
 		if you wanna start graphical interface type:
 
 	> systemctl isolite graphical.target  
+
+		you can see other targets here:
+	> ls -l /etc/systemd/system/
+
 ###   
 ---  
