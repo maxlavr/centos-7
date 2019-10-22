@@ -30,6 +30,13 @@
 	![img9](./imgs/9.png)  
 
 2. ### EDIT CONFIG FILES  
+	#
+		check your network status
+
+		> ip add
+		> nmcli d
+		![imgn1](./network/imgs/n1.png)
+
 	#  
 		stop all network services  
 
