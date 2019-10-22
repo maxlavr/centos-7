@@ -20,7 +20,7 @@
 	![img1](./imgs/1.png)  
 	![img2](./imgs/2.png)
 	![img3](./imgs/3.png)  
-			###### here you should to choose static/dynamic, my way will be static
+		###### here you should to choose static/dynamic, my way will be static
 	![img4](./imgs/4.png)  
 	![img5](./imgs/5.png)  
 	![img6](./imgs/6.png)  
@@ -46,7 +46,7 @@
 			NETMASK=255.255.255.0
 			GATEWAY=192.168.0.1  
 			DNS1=8.8.8.8
-	* sudo systemctl start network services  
-		![img15](./imgs/15.png)  
-		- "ping" or "nmctl d"
-		![img16](./imgs/16.png)
+	sudo systemctl start network services  
+	![img15](./imgs/15.png)  
+			"ping" or "nmctl d"
+	![img16](./imgs/16.png)
