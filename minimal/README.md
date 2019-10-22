@@ -50,16 +50,20 @@
 		if you wanna load graphical interface (GUI) type:
 	> systemctl isolate graphical.target  
 
+		# isolate is the simmilar change runlevel in a tradition init system
+		# it's immediatly stop run processes that are not enabled in a new unit
+
 	![img3](./imgs/3.png)
 
 		you can see other targets here:
-	> ls -l /etc/systemd/system/
+	> ls /etc/systemd/system/
 
-	![img3](./imgs/4.png)
+	![img5](./imgs/5.png)
 
 		to load with default mode:
 	> systemctl isolate default.target
 
+	![img3](./imgs/4.png)  
 
 ###   
 ---  
