@@ -30,7 +30,7 @@
 	![img9](./imgs/9.png)  
 
 2. ### EDIT CONFIG FILES  
-	#
+	### 2.1
 		2.1 check your network status  
 
 	> ip add  
@@ -40,7 +40,7 @@
   
 	> network is disconnected
 
-	#  
+	### 2.2    
 		2.2 stop all network services  
 
 	![img10](./imgs/10.png)  
