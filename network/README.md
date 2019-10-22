@@ -1,20 +1,20 @@
 # NETWORK
 
 you can use 2 ways edit network settings
-1. NMTUI (NetworkManager TUI)
-2. edit files:
-	* /etc/sysconfig/network-scripts/ifcfg-enp0s3  
-		- enp0s3 my interface, your can diff
-	* here you should know some params:
-		- TYPE 		- Ethernet/Wired
-		- BOOTPROTO	- how to get IP: static/dhcp/none
-		- NAME		- "name of connection"
-		- DEVICE	- "name of interface"
-		- ONBOOT	- "tell machine to start this interface when your system start": yes/no
-		- IPADDR	- IP address that this machine will be use
-		- GATEWAY	- network access GATEWAY
-		- NETMASK	- network NETMASK
-		- DNS		- server for resolving DNS domain names
+1. ## NMTUI (NetworkManager TUI)
+2. ## edit files:
+	### /etc/sysconfig/network-scripts/ifcfg-enp0s3  
+		#### enp0s3 my interface, your can diff
+		* here you should know some params:
+			- TYPE 		- Ethernet/Wired
+			- BOOTPROTO	- how to get IP: static/dhcp/none
+			- NAME		- "name of connection"
+			- DEVICE	- "name of interface"
+			- ONBOOT	- "tell machine to start this interface when your system start": yes/no
+			- IPADDR	- IP address that this machine will be use
+			- GATEWAY	- network access GATEWAY
+			- NETMASK	- network NETMASK
+			- DNS		- server for resolving DNS domain names
 ***
 
 ## Description
