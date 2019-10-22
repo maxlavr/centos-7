@@ -1,10 +1,20 @@
 # NETWORK
 
 you can use 2 ways edit network settings
-* NMTUI (NetworkManager TUI)
-* edit files:
-	- /etc/sysconfig/network-scripts/ifcfg-enp0s3 <-- config file  
-	  enp0s3 my interface, your can diff
+1. NMTUI (NetworkManager TUI)
+2. edit files:
+	* /etc/sysconfig/network-scripts/ifcfg-enp0s3  
+		- enp0s3 my interface, your can diff
+	here you should know some params:
+		- TYPE 		- Ethernet/Wired
+		- BOOTPROTO	- how to get IP: static/dhcp/none
+		- NAME		- "name of connection"
+		- DEVICE	- "name of interface"
+		- ONBOOT	- "tell machine to start this interface when your system start": yes/no
+		- IPADDR	- IP address that this machine will be use
+		- GATEWAY	- network access GATEWAY
+		- NETMASK	- network NETMASK
+		- DNS		- server for resolving DNS domain names
 ***
 
 ## Description
@@ -37,13 +47,16 @@ you can use 2 ways edit network settings
 		- ![img13](./imgs/13.png)  
 	* edit config file(my config is manual)  
 		![img14](./imgs/14.png)  
-		- add:  
-			DEVICE=enp0s3  
+		- add / or edit some params(you should adapt your machine):  
+			TYPE=Ethernet  
+			DEVICE=enp0s3    
 			ONBOOT=yes  
 			IPADDR=192.168.0.29  
 			PREFIX=24  
+			NETMASK=255.255.255.0
 			GATEWAY=192.168.0.1  
+			DNS1=8.8.8.8
 	* sudo systemctl restart network services  
 		![img15](./imgs/15.png)  
-		- ping  
+		- "ping" or "nmctl d"
 		![img16](./imgs/16.png)
