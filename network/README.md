@@ -51,9 +51,9 @@
 
 	![img13](./imgs/13.png)  
 	######  2.4  
-		edit config file(my config is manual)  
+	> edit config file(my config is manual)  
 
-	> add / or edit some params(you should adapt your machine):  
+	###### add / or edit some params(you should adapt your machine):  
 		TYPE=Ethernet  
 		DEVICE=enp0s3    
 		ONBOOT=yes  
