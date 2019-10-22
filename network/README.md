@@ -33,19 +33,22 @@
 	![img10](./imgs/10.png)  
 	![img11](./imgs/11.png)  
 	![img12](./imgs/12.png)  
+#
 	> sudo vi "config file"  
 	![img13](./imgs/13.png)  
+#
 	> edit config file(my config is manual)  
 	![img14](./imgs/14.png)  
+#
 	> add / or edit some params(you should adapt your machine):  
-			TYPE=Ethernet  
-			DEVICE=enp0s3    
-			ONBOOT=yes  
-			IPADDR=192.168.0.29  
-			PREFIX=24  
-			NETMASK=255.255.255.0
-			GATEWAY=192.168.0.1  
-			DNS1=8.8.8.8
+		TYPE=Ethernet  
+		DEVICE=enp0s3    
+		ONBOOT=yes  
+		IPADDR=192.168.0.29  
+		PREFIX=24  
+		NETMASK=255.255.255.0
+		GATEWAY=192.168.0.1  
+		DNS1=8.8.8.8
 	sudo systemctl start network services  
 	![img15](./imgs/15.png)  
 			"ping" or "nmctl d"
