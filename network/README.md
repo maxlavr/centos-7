@@ -33,14 +33,12 @@
 	#
 		check your network status  
 
-	> #: ip add  
-	> #: nmcli d  
+	> ip add  
+	> nmcli d  
 
 	![imgn1](./imgs/n1.png)  
   
 	> network is disconnected
-
-	---
 
 	#  
 		stop all network services  
@@ -55,7 +53,7 @@
 	#  
 		edit config file(my config is manual)  
 
-	![img14](./imgs/14.png)  
+	![img14](./imgs/n2.png)  
 	#  
 	add / or edit some params(you should adapt your machine):  
 		TYPE=Ethernet  
