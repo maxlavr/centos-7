@@ -53,8 +53,7 @@
 	######  2.4  
 		edit config file(my config is manual)  
 
-	![img14](./imgs/n2.png)    
-		# add / or edit some params(you should adapt your machine):  
+	###### add / or edit some params(you should adapt your machine):  
 		TYPE=Ethernet  
 		DEVICE=enp0s3    
 		ONBOOT=yes  
@@ -63,6 +62,8 @@
 		NETMASK=255.255.255.0
 		GATEWAY=192.168.0.1  
 		DNS1=8.8.8.8
+
+	![img14](./imgs/n2.png)    
 
 	sudo systemctl start network services  
 	![img15](./imgs/15.png)  
