@@ -7,10 +7,10 @@
 #### CONFIGURE NETWORK HELPER: [HELPER LINK](../network/ "FOLLOW THIS LINK")  
 
 ### 2. You should to configure yum package manager. If it's not available, please, configure.  
-	to check type in terminal:  
+		to check type in terminal:  
 
-		> yum repolist  
+	> yum repolist  
 
-	good result:
+		good result:
 ###   
 ---  
