@@ -2,7 +2,7 @@
 
 you can use 2 ways edit network settings
 1. ## NMTUI (NetworkManager TUI)
-2. ## edit files:
+2. ## EDIT CONFIG FILES:
 	### /etc/sysconfig/network-scripts/ifcfg-enp0s3  
 		# enp0s3 my interface, your can diff
 		# here you should know some params:
@@ -19,9 +19,7 @@ you can use 2 ways edit network settings
 
 ## Description
 1. ### NMTUI (NetworkManger TUI)
-	* edit a connection
 	![img1](./imgs/1.png)  
-	* choose your interface and press <Edit ...>
 	![img2](./imgs/2.png)
 	![img3](./imgs/3.png)  
 	* IPv4 CONFIGURATION: choose your
