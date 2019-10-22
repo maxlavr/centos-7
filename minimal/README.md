@@ -26,7 +26,17 @@
 
 	> yum groupinfo "Minimal Install"  
 
-		this command list all packages that inlude your group in "..."  
+		this command list all packages that include your group in "..."  
+		  
+		for the next step we need "epel" repository, lets install it by type:  
 
+	> yum install epel-release  
+
+		check:  
+
+	> yum repolist  
+	![img2](./minimal/imgs/2.png)
+
+		now we see that repo EPEL is loaded and connect
 ###   
 ---  
