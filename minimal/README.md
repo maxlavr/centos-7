@@ -12,7 +12,8 @@
 	> yum repolist  
 
 		good result:  
-![img1](./imgs/1.png)
+
+	![img1](./imgs/1.png)
 
 		but here no "epel", no "remi" and another repositories
 
