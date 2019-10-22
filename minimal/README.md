@@ -11,6 +11,5 @@
 
 	> yum repolist  
 
-		good result:
 ###   
 ---  
