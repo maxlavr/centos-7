@@ -30,6 +30,7 @@
 
 #
 2. ### EDIT CONFIG FILES
+		  
 			# type: stop all network services  
 	![img10](./imgs/10.png)  
 	![img11](./imgs/11.png)  
