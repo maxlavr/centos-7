@@ -31,12 +31,12 @@
 
 2. ### EDIT CONFIG FILES  
 	#
-		check your network status
+		check your network status  
 
-	> ip add
-	> nmcli d
+	> ip add  
+	> nmcli d  
 
-	![imgn1](./imgs/n1.png)
+	![imgn1](./imgs/n1.png)  
 
 	#  
 		stop all network services  
