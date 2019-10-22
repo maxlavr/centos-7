@@ -9,7 +9,7 @@
 ### 2. You should to configure yum package manager. If it's not available, please, configure.  
 	to check type in terminal:  
 
-	> yum repolist  
+		> yum repolist  
 
 	good result:
 ###   
