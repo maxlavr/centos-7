@@ -15,7 +15,7 @@
 ![img1](./imgs/1.png)
 
 ### 3. If your configuration is ok (network, yum), let's start:
-	#### 3.1
+#### 3.1
 		this command list all availible groups to install:  
 > yum grouplist  
 
