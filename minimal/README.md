@@ -56,9 +56,7 @@
 	![img3](./imgs/3.png)
 
 		you can see other targets here:
-	> ls /etc/systemd/system/
-
-	![img5](./imgs/5.png)
+	> ls /usr/lib/systemd/system | grep target | less
 
 		to load with default mode:
 	> systemctl isolate default.target
