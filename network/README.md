@@ -36,7 +36,7 @@
 		> ip add
 		> nmcli d
 
-		![imgn1](./network/imgs/n1.png)
+	![imgn1](./network/imgs/n1.png)
 
 	#  
 		stop all network services  
