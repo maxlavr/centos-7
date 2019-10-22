@@ -1,6 +1,6 @@
 # NETWORK
 
-you can use 2 ways edit network settings
+## YOU CAN USE 2 WAYS EDIT NETWORK SETTING
 1. ## NMTUI (NetworkManager TUI)
 2. ## EDIT CONFIG FILES:
 	### /etc/sysconfig/network-scripts/ifcfg-enp0s3  
