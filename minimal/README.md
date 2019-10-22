@@ -14,12 +14,14 @@
 	good result:
 ![img1](./imgs/1.png)
 
+	but here no "epel", no "remi" and another repositories
+
 ### 3. If your configuration is ok (network, yum), let's start:  
 #### 3.1
 	this command list all availible groups to install:  
 > yum grouplist  
 
-		it will include: mandatory, default and optional groups
+	it will include: mandatory, default and optional groups
 
 > yum groupinfo "Minimal Install"  
 
