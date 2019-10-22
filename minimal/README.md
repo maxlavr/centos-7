@@ -35,7 +35,7 @@
 		check:  
 
 	> yum repolist  
-	![img2](./minimal/imgs/2.png)
+	![img2](./imgs/2.png)
 
 		now we see that repo EPEL is loaded and connect
 ###   
