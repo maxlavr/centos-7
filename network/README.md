@@ -39,6 +39,9 @@
 	![imgn1](./imgs/n1.png)  
 
 	#  
+		network is disconnected
+
+	#  
 		stop all network services  
 
 	![img10](./imgs/10.png)  
