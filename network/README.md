@@ -66,7 +66,11 @@
 
 	![img14](./imgs/n2.png)    
 
-	sudo systemctl start network services  
+	##### 2.5  
+		sudo systemctl start network services  
+
 	![img15](./imgs/15.png)  
 			"ping" or "nmctl d"
+	![img15](./imgs/n3.png)  
+			check settings
 	![img16](./imgs/16.png)
