@@ -31,7 +31,7 @@
 
 2. ### EDIT CONFIG FILES  
 	###### 2.1
-		2.1 check your network status  
+		check your network status  
 
 	> ip add  
 	> nmcli d  
@@ -53,8 +53,7 @@
 	######  2.4  
 		edit config file(my config is manual)  
 
-	![img14](./imgs/n2.png)  
-	#  
+	![img14](./imgs/n2.png)    
 		# add / or edit some params(you should adapt your machine):  
 		TYPE=Ethernet  
 		DEVICE=enp0s3    
