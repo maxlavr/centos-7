@@ -49,6 +49,6 @@
 
 		if you wanna start graphical interface type:
 
-	> systemctl isolite grephical.target  
+	> systemctl isolite graphical.target  
 ###   
 ---  
