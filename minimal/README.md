@@ -17,11 +17,11 @@
 ### 3. If your configuration is ok (network, yum), let's start:
 	#### 3.1
 		this command list all availible groups to install:  
-	> yum grouplist  
+> yum grouplist  
 
 		it will inlude: mandatory, default and oprional groups
 
-	> yum groupinfo "Minimal Install"  
+> yum groupinfo "Minimal Install"  
 
 		this command lsit all packages that inlude your group in "..."  
 
