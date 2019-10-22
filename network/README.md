@@ -30,13 +30,13 @@
 
 2. ### EDIT CONFIG FILES  
 			### type: stop all network services  
-	![img10](./imgs/10.png)  
-	![img11](./imgs/11.png)  
-	![img12](./imgs/12.png)  
+		![img10](./imgs/10.png)  
+		![img11](./imgs/11.png)  
+		![img12](./imgs/12.png)  
 			### sudo vi "config file"  
-	![img13](./imgs/13.png)  
+		![img13](./imgs/13.png)  
 			### edit config file(my config is manual)  
-	![img14](./imgs/14.png)  
+		![img14](./imgs/14.png)  
 			### add / or edit some params(you should adapt your machine):  
 			TYPE=Ethernet  
 			DEVICE=enp0s3    
