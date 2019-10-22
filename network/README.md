@@ -5,7 +5,7 @@ you can use 2 ways edit network settings
 2. edit files:
 	* /etc/sysconfig/network-scripts/ifcfg-enp0s3  
 		- enp0s3 my interface, your can diff
-	here you should know some params:
+	* here you should know some params:
 		- TYPE 		- Ethernet/Wired
 		- BOOTPROTO	- how to get IP: static/dhcp/none
 		- NAME		- "name of connection"
