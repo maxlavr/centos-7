@@ -47,7 +47,7 @@
 			NETMASK=255.255.255.0
 			GATEWAY=192.168.0.1  
 			DNS1=8.8.8.8
-	* sudo systemctl restart network services  
+	* sudo systemctl start network services  
 		![img15](./imgs/15.png)  
 		- "ping" or "nmctl d"
 		![img16](./imgs/16.png)
