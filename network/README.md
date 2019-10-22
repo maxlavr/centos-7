@@ -28,16 +28,16 @@
 	![img8](./imgs/8.png)  
 	![img9](./imgs/9.png)  
 
-	2. ### EDIT CONFIG FILES  
-			### type: stop all network services  
+2. ### EDIT CONFIG FILES  
+		### type: stop all network services  
 	![img10](./imgs/10.png)  
 	![img11](./imgs/11.png)  
 	![img12](./imgs/12.png)  
-			### sudo vi "config file"  
+		### sudo vi "config file"  
 		![img13](./imgs/13.png)  
-			### edit config file(my config is manual)  
+		### edit config file(my config is manual)  
 		![img14](./imgs/14.png)  
-			### add / or edit some params(you should adapt your machine):  
+		### add / or edit some params(you should adapt your machine):  
 			TYPE=Ethernet  
 			DEVICE=enp0s3    
 			ONBOOT=yes  
