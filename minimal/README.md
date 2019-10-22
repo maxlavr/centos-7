@@ -4,7 +4,7 @@
 	establish you should configure it.  
 
 
-	#### CONFIGURE NETWORK HELPER: [HELPER LINK](../network/ "FOLLOW THIS LINK")  
+#### CONFIGURE NETWORK HELPER: [HELPER LINK](../network/ "FOLLOW THIS LINK")  
 
 ### 2. You should to configure yum package manager. If it's not available, please, configure.  
 	to check
