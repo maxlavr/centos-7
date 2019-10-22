@@ -31,7 +31,7 @@
 
 2. ### EDIT CONFIG FILES  
 	#
-		check your network status  
+		2.1 check your network status  
 
 	> ip add  
 	> nmcli d  
@@ -41,17 +41,17 @@
 	> network is disconnected
 
 	#  
-		stop all network services  
+		2.2 stop all network services  
 
 	![img10](./imgs/10.png)  
 	![img11](./imgs/11.png)  
 	![img12](./imgs/12.png)  
 	#  
-		sudo vi "config file"  
+		2.3 sudo vi "config file"  
 
 	![img13](./imgs/13.png)  
 	#  
-		edit config file(my config is manual)  
+		2.4 edit config file(my config is manual)  
 
 	![img14](./imgs/n2.png)  
 	#  
