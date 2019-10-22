@@ -47,12 +47,19 @@
 	> yum groupinstall "X Window System"  
 	> yum groupinstall "Mate Desktop"
 
-		if you wanna start graphical interface type:
+		if you wanna load graphical interface (GUI) type:
+	> systemctl isolate graphical.target  
 
-	> systemctl isolite graphical.target  
+	![img3](./imgs/3.png)
 
 		you can see other targets here:
 	> ls -l /etc/systemd/system/
+
+	![img3](./imgs/4.png)
+
+		to load with default mode:
+	> systemctl isolate default.target
+
 
 ###   
 ---  
