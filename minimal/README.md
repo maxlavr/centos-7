@@ -12,7 +12,7 @@
 > yum repolist  
 
 	good result:
-
+![img1](./imgs/1.png)
 
 ###   
 ---  
