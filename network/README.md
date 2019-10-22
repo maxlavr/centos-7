@@ -21,9 +21,9 @@
 	![img2](./imgs/2.png)
 	![img3](./imgs/3.png)  
 	###### here you should to choose static/dynamic, my way will be static
-		![img4](./imgs/4.png)  
-		![img5](./imgs/5.png)  
-		![img6](./imgs/6.png)  
+	![img4](./imgs/4.png)  
+	![img5](./imgs/5.png)  
+	![img6](./imgs/6.png)  
 	![img7](./imgs/7.png)  
 	![img8](./imgs/8.png)  
 	![img9](./imgs/9.png)  
