@@ -1,7 +1,7 @@
 # NETWORK (you can use this ways to edit network settings)
-1. ## NMTUI (NetworkManager TUI)
-2. ## EDIT CONFIG FILES:
-	### /etc/sysconfig/network-scripts/ifcfg-enp0s3  
+1. ### NMTUI (NetworkManager TUI)
+2. ### EDIT CONFIG FILES:
+	#### /etc/sysconfig/network-scripts/ifcfg-enp0s3  
 		# enp0s3 my interface, your can diff
 		# here you should know some params:
 			TYPE 		- Ethernet/Wired
