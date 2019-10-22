@@ -47,12 +47,12 @@
 	![img11](./imgs/11.png)  
 	![img12](./imgs/12.png)  
 	###### 2.3    
-		sudo vi "config file"  
+		edit config file(my config is manual)  
+		add / or edit some params(you should adapt your machine):  
 
 	![img13](./imgs/13.png)  
 	######  2.4  
-	> edit config file(my config is manual)  
-	  add / or edit some params(you should adapt your machine):  
+	> sudo vi "config file"  
 
 	######
 		TYPE=Ethernet  
