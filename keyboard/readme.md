@@ -12,16 +12,16 @@
 1. ### Lets talk about localectl
 
 	#### 1.1 localectl
-		# localectl is util that control system locale and keyboard layout settings  
+			# localectl is util that control system locale and keyboard layout settings  
 
-	> man localectl  
+		> man localectl  
 
-		# the configuration file named locale.conf  
+			# the configuration file named locale.conf  
 
-	> man locale.conf  
+		> man locale.conf  
 
-		# it's place in /etc/locale.conf  
-		# your can learn more after type  
+			# it's place in /etc/locale.conf  
+			# your can learn more after type  
 
 	> man locale.conf  
 
