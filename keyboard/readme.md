@@ -30,4 +30,10 @@
 	> locale -v  
 	> localectl  
 
-	### this link can help you [man-locale-officail](https://jlk.fjfi.cvut.cz/arch/manpages/man/locale.1.en "man locale official")
+		#output will print some params, you can know about them follow link  
+
+	### this link can help you [man-locale-official](https://jlk.fjfi.cvut.cz/arch/manpages/man/locale.1.en "man locale official")  
+
+		#you need the mean som of them:  
+		- LANG  
+		-  
