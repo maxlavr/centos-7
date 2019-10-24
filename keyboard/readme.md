@@ -30,4 +30,4 @@
 	> locale -v  
 	> localectl  
 
-### this link can help you [man-locale-officail](https://jlk.fjfi.cvut.cz/arch/manpages/man/locale.1.en "man locale official")
+	### this link can help you [man-locale-officail](https://jlk.fjfi.cvut.cz/arch/manpages/man/locale.1.en "man locale official")
