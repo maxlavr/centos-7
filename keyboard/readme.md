@@ -39,5 +39,5 @@
 
 		# this is all available for me(your can diff)  
 		# and now we can configure keyboead by  
-		# 1. open /etc/lcoalectl.conf or 2. use util localectl  
+		# 1. open /etc/localectl.conf or 2. use util localectl  
 		# lets use both  
