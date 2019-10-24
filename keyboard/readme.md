@@ -9,35 +9,25 @@
 #### HELPER LINK: [TO INSTALL MINIMAL CENTOS](../minimal/ "FOLLOW THIS LINK TO MINIMAL")  
 
 
-1. ### Lets talk about localectl
+1. ### Lets talk about 'localectl' and 'locale'  
 
-	#### 1.1 localectl
+	#### 1.1 localectl & locale  
 
 		# localectl is util that control system locale and keyboard layout settings  
+		# locale is perl programm to use or avoid POSIX locales for built-in operations  
 
 	> man localectl  
+	> man locale  
 
 		# the configuration file named locale.conf  
 
 	> man locale.conf  
 
-		# it's place in /etc/locale.conf  
-		# your can learn more after type  
+		# it's located in /etc/locale.conf  
+		# to know more about your configuration now type:  
 
-	> man locale.conf  
+	> locale  
+	> locale -v  
+	> localectl  
 
-		# we need some params, but before configure we need to know virtual  
-		# console keyboard mapping(simple: what languages we can use?)  
-		# lets type:  
-
-	> localectl list-keymaps  
-
-		# there is all available for you  
-		# very big output i think, make shorter, I need only macintosh and lets type:  
-
-	> localectl list-keymaps | grep mac  
-
-		# this is all available for me(your can diff)  
-		# and now we can configure keyboead by  
-		# 1. open /etc/localectl.conf or 2. use util localectl  
-		# lets use both  
+### this link can help you [man-locale-officail](https://jlk.fjfi.cvut.cz/arch/manpages/man/locale.1.en "man locale official")
