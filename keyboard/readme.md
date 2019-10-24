@@ -30,10 +30,10 @@
 	> locale -v  
 	> localectl  
 
-		#output will print some params, you can know about them follow link  
+		#output will print some params, you can know about them by follow link  
 
-	### this link can help you [man-locale-official](https://jlk.fjfi.cvut.cz/arch/manpages/man/locale.1.en "man locale official")  
+	#### this link can help you [man-locale-official](https://jlk.fjfi.cvut.cz/arch/manpages/man/locale.1.en "man locale official")  
 
-		#you need the mean som of them:  
+		#you need the mean some of them:  
 		- LANG  
 		-  
