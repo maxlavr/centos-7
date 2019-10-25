@@ -38,12 +38,16 @@
 	#### THIS LINK CAN HELP YOU [MAN-LOCALE-OFFICIAL](https://jlk.fjfi.cvut.cz/arch/manpages/man/locale.1.en "man locale official")  
 
 		#you need the mean some of 'locale' params (about anothers you can know follow the link):  
-		- LANG  
-		- LANGUAGE (the similar LANG)  
-		- LS_MESSAGES (This category affects the language in which messages are displayed and what an affirmative or negative answer looks like)
+		- LANG (LANGUAGE)  
+		- LS_MESSAGES (This category affects the language in which messages are displayed and what an affirmative or negative answer looks like)  
 		- LC_ALL (All for above)  
 
 		# locale have flags -a | -m  
 		# locale -a (--all-locales) display a list of all of available locales (cat /usr/lib/locale/locale-archive)  
 		# locale -m (--charmaps) display all of avalable charmaps 
-		
+
+		# for more info:  
+
+	> locale -a -v  
+
+	
