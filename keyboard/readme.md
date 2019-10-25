@@ -32,9 +32,12 @@
 
 		#output will print some params, you can know about them by follow link  
 
+
+	#### 1.2 locale
+
 	#### THIS LINK CAN HELP YOU [MAN-LOCALE-OFFICIAL](https://jlk.fjfi.cvut.cz/arch/manpages/man/locale.1.en "man locale official")  
 
-		#you need the mean some of them:  
+		#you need the mean some of 'locale' params (about anothers you can know follow the link):  
 		- LANG  
 		- LANGUAGE (the similar LANG)  
 		- LS_MESSAGES (This category affects the language in which messages are displayed and what an affirmative or negative answer looks like)
