@@ -74,7 +74,7 @@
 	#### 2.2 Permanently  
 		# if you don’t want to manually change the language and encoding each time  
 		# you connect, you can set the locale on an ongoing basis  
-		# edit ~/.bashrc ~/.profile or and add LANG='value' in  
+		# edit ~/.bashrc or ~/.profile and add LANG='value' in  
 
 	> vi ~/.bashrc
 
@@ -95,3 +95,20 @@
 
 	> source ~/.profile  
 
+	#### 2.3 Default  
+		# Follow these steps to change the default system locale (for all users)  
+		
+		### 2.3.1 edit config file   
+
+		> vi /etc/locale.conf  
+
+			# add  
+
+		> LANG="ru_RU.utf-8"  
+		> LC_MESSAGES="ru_RU.utf-8"
+
+		# After making changes to the locale.conf files, they will take effect  
+		# after a system reboot, or you can force method and do:  
+
+		> source /etc/locale.conf  
+		
