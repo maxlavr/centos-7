@@ -98,7 +98,7 @@
 	#### 2.3 Default  
 		# Follow these steps to change the default system locale (for all users)  
 		
-		### 2.3.1 edit config file   
+		2.3.1 edit config file   
 
 		> vi /etc/locale.conf  
 
