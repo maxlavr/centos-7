@@ -69,11 +69,17 @@
 
 		# XkbRules - files of rules to be used for keyboard mapping composition  
 		# XkbModel - name of the model of your keyboard type  
+
 	> localectl list-x11-keymap-models  
+
 		# XkbLayout - layout(s) you intend to use  
+
 	> localectl list-x11-keymap-layouts  
+
 		# XkbVariant - variant(s) of the layout you intend to use  
+
 	> localect list-x11-keymap-oprions  
+
 		# XkbOptions - extra xkb configuration options  
 
 
