@@ -110,5 +110,5 @@
 		# After making changes to the locale.conf files, they will take effect  
 		# after a system reboot, or you can force method and do:  
 
-	> source /etc/locale.conf  
+	> source /etc/profile.d/sh.locale
 		
