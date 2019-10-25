@@ -111,4 +111,6 @@
 		# after a system reboot, or you can force method and do:  
 
 	> source /etc/profile.d/sh.locale  
+
+		# make it easy  
 		
