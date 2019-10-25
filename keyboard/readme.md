@@ -53,6 +53,9 @@
 		# infomations of this output located in /usr/lib/locale/locale-archive  
 
 	#### 1.3 localectl  (XKB configuration)
+
+	#### THIS LINK CAN HELP YOU [XKB-CONFIGURATION-GUIDE](https://www.x.org/releases/current/doc/xorg-docs/input/XKB-Config.html#Basic_Configuration  "XKB Configuration Guide")  
+
 		# localectl may be used to query and change the:  
 		# - system locale (the lenguage settings of system services, UI)  
 		# - keyboard layout settings (the keyboard layout used on the text console and graphical UI)  
