@@ -57,7 +57,7 @@
 
 2.  ### Change Language and Encoding  
 	#### 2.1 Temporarily  
-		# for a few time (after reboot will change)  
+		# for a few time (after reboot all settings that you set will change for default)  
 		# you should set value for global param LANG  
 		# before print current value
 
