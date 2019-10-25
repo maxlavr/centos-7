@@ -50,4 +50,5 @@
 
 	> locale -a -v  
 
+		# infomations about this output located in /usr/lib/locale/locale-archive  
 	
