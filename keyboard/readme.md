@@ -78,7 +78,7 @@
 
 	> vi ~/.bashrc
 
-		#or
+		# or
 
 	> vi ~/.profile  
 
