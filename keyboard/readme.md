@@ -71,7 +71,7 @@
 
 	> echo $LANG  
 
-	### 2.2 Permanently  
+	#### 2.2 Permanently  
 		# if you don’t want to manually change the language and encoding each time  
 		# you connect, you can set the locale on an ongoing basis  
 		# edit ~/.bashrc ~/.profile or and add LANG='value' in  
