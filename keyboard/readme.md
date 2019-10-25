@@ -112,5 +112,4 @@
 
 	> source /etc/profile.d/sh.locale  
 
-		# make it easy  
 		
