@@ -76,7 +76,9 @@
 		# you connect, you can set the locale on an ongoing basis  
 		# edit ~/.bashrc ~/.profile or and add LANG='value' in  
 
-	> vi ~/.bashrc or vi ~/.profile  
+	> vi ~/.bashrc
+		#or
+	> vi ~/.profile  
 
 		# add line  
 
