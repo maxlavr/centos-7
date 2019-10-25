@@ -52,7 +52,29 @@
 
 		# infomations of this output located in /usr/lib/locale/locale-archive  
 
-	#### 1.3 localectl  
+	#### 1.3 localectl  (XKB configuration)
+		# localectl may be used to query and change the:  
+		# - system locale (the lenguage settings of system services, UI)  
+		# - keyboard layout settings (the keyboard layout used on the text console and graphical UI)  
+
+		# the full list of keyboard models /usr/share/X11/xkb/rules/base.lst
+
+	> cat /usr/share/X11/xkb/rules/base.lst
+
+		# config file /etc/X11/xorg.conf.d/00-keyboard.conf  
+		
+	> cat /etc/X11/xorg.conf.d/00-keyboard.conf  
+
+		# The parameters are:
+
+		# XkbRules - files of rules to be used for keyboard mapping composition  
+		# XkbModel - name of the model of your keyboard type  
+	> localectl list-x11-keymap-models  
+		# XkbLayout - layout(s) you intend to use  
+	> localectl list-x11-keymap-layouts  
+		# XkbVariant - variant(s) of the layout you intend to use  
+	> localect list-x11-keymap-oprions  
+		# XkbOptions - extra xkb configuration options  
 
 
 2.  ### Change Language and Encoding  
