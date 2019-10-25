@@ -56,7 +56,7 @@
 
 
 2.  ### Change Language and Encoding  
-	#### 2.1 Temporarily  
+	#### 2.1 TEMPORARILY    
 		# for a few time (after reboot all settings that you set will change for default)  
 		# you should set value for global param LANG  
 		# before print current value
@@ -71,7 +71,7 @@
 
 	> echo $LANG  
 
-	#### 2.2 Permanently  
+	#### 2.2 PERMANENTLY  
 		# if you don’t want to manually change the language and encoding each time  
 		# you connect, you can set the locale on an ongoing basis  
 		# edit ~/.bashrc or ~/.profile and add LANG='value' in  
@@ -95,10 +95,10 @@
 
 	> source ~/.profile  
 
-	#### 2.3 Default  
+	#### 2.3 DEFAULT  
 		# Follow these steps to change the default system locale (for all users)  
 		
-	##### 2.3.1 edit config file   
+	##### 2.3.1 edit config file
 
 	> vi /etc/locale.conf  
 
@@ -110,5 +110,5 @@
 		# After making changes to the locale.conf files, they will take effect  
 		# after a system reboot, or you can force method and do:  
 
-	> source /etc/profile.d/sh.locale
+	> source /etc/profile.d/sh.locale  
 		
