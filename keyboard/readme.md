@@ -71,7 +71,23 @@
 
 	> echo $LANG  
 
-	### Change Language and Encoding Permanently  
+	### 2.2 Permanently  
 		# if you don’t want to manually change the language and encoding each time  
 		# you connect, you can set the locale on an ongoing basis  
-		# edit ./bash_profile and add LANG='value' in  
+		# edit ~/.bashrc ~/.profile or and add LANG='value' in  
+
+	> vi ~/.bashrc or vi ~/.profile  
+
+		# add line  
+
+	> LANG=ru_RU.utf-8  
+
+		# The change will take effect the next time you log in,  
+		# but you can speed it up by running one of the commands below  
+
+	> source ~/.bashrc  
+
+		# or  
+
+	> source ~/.profile  
+
