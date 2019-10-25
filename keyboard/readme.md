@@ -78,10 +78,11 @@
 
 		# XkbVariant - variant(s) of the layout you intend to use  
 
-	> localect list-x11-keymap-oprions  
+	> localect list-x11-keymap-variants   
 
 		# XkbOptions - extra xkb configuration options  
 
+	> localect list-x11-keymap-options  
 
 2.  ### Change Language and Encoding  
 	#### 2.1 TEMPORARILY    
