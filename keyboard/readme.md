@@ -52,7 +52,11 @@
 
 		# infomations of this output located in /usr/lib/locale/locale-archive  
 
-	### Change Language and Encoding Temporarily  
+	#### 1.3 localectl  
+
+
+	### 2.1  Change Language and Encoding Temporarily  
+		# for a few time (after reboot will change)  
 		# you should set value for global param LANG  
 		# before print current value
 
@@ -65,4 +69,8 @@
 		# after type to check:  
 
 	> echo $LANG  
-	
+
+	### Change Language and Encoding Permanently  
+		# if you don’t want to manually change the language and encoding each time  
+		# you connect, you can set the locale on an ongoing basis  
+		# edit ./bash_profile and add LANG='value' in  
