@@ -50,5 +50,19 @@
 
 	> locale -a -v  
 
-		# infomations about this output located in /usr/lib/locale/locale-archive  
+		# infomations of this output located in /usr/lib/locale/locale-archive  
+
+	### Change Language and Encoding Temporarily  
+		# you should set value for global param LANG  
+		# before print current value
+
+	> echo $LANG
+
+		# to change for rus for example type:  
+
+	> LANG=ru_RU.utf-8  
+
+		# after type to check:  
+
+	> echo $LANG  
 	
