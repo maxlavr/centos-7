@@ -55,7 +55,8 @@
 	#### 1.3 localectl  
 
 
-	### 2.1  Change Language and Encoding Temporarily  
+2.  ### Change Language and Encoding  
+	#### 2.1 Temporarily  
 		# for a few time (after reboot will change)  
 		# you should set value for global param LANG  
 		# before print current value
