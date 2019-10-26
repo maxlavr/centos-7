@@ -103,7 +103,7 @@
 	> cat /etc/X11/xorg.conf.d/00-keyboard.conf  | less  
 	> > push: / and  print: "! options"  
 
-		## ANOTHER FILES  
+		##	ANOTHER FILES  
 
 		 #	/usr/share/X11/xkb/compat  
 
