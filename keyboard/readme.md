@@ -1,7 +1,8 @@
 # This is guide aboute configuration keyborad in centos-7
 
-1. ### Lets talk about 'localectl' and 'locale'  
-2. ### Change Language and Encoding (FIRST METHOD)  
+1. ##### Lets talk about 'localectl' and 'locale'  
+2. ##### Change Language and Encoding (FIRST METHOD)  
+3. ##### Change Language and Encoding (SECOND METHOD)  
 
 
 ### Notice
