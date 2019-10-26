@@ -83,25 +83,25 @@
 
 	> localectl list-x11-keymap-models  
 	> cat /etc/X11/xorg.conf.d/00-keyboard.conf  | less  
-	> push: / and  print: "! model"  
+	> > push: / and  print: "! model"  
 
 		# XkbLayout - layout(s) you intend to use  
 
 	> localectl list-x11-keymap-layouts  
 	> cat /etc/X11/xorg.conf.d/00-keyboard.conf  | less    
-	> push: / and  print: "! layouts"    
+	> > push: / and  print: "! layouts"    
 	
 		# XkbVariant - variant(s) of the layout you intend to use  
 
 	> localect list-x11-keymap-variants   
 	> cat /etc/X11/xorg.conf.d/00-keyboard.conf  | less   
-	> push: / and  print: "! variants"    
+	> > push: / and  print: "! variants"    
 
 		# XkbOptions - extra xkb configuration options  
 
 	> localect list-x11-keymap-options  
 	> cat /etc/X11/xorg.conf.d/00-keyboard.conf  | less  
-	> push: / and  print: "! options"  
+	> > push: / and  print: "! options"  
 
 		## ANOTHER FILES  
 
