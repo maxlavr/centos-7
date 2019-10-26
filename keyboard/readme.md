@@ -12,6 +12,7 @@
 
 #### HELPER LINK: [TO INSTALL MINIMAL CENTOS](../minimal/ "FOLLOW THIS LINK TO MINIMAL")  
 
+***
 
 1. ### Lets talk about 'localectl' and 'locale'  
 
