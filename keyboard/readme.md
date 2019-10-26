@@ -13,6 +13,7 @@
 #### HELPER LINK: [TO INSTALL MINIMAL CENTOS](../minimal/ "FOLLOW THIS LINK TO MINIMAL")  
 
 ***
+***
 
 1. ### Lets talk about 'localectl' and 'locale'  
 
@@ -124,6 +125,7 @@
 		 #	/usr/share/X11/xkb/types  
 
 ***
+***
 
 2. ### Change Language and Encoding (FIRST METHOD)  
 	#### 2.1 TEMPORARILY    
@@ -183,6 +185,9 @@
 		# after a system reboot, or you can use force method and do:  
 
 	> source /etc/profile.d/sh.locale  
+
+***
+***
 
 3. ### Change Language and Encoding (SECOND METHOD)  
 
