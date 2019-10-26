@@ -188,3 +188,20 @@
 
 3. ### Change Language and Encoding (SECOND METHOD)  
 
+	##### 3.1.1 use localectl  
+
+		# for default template is:  
+
+	> localectl set-locale LOCALE (for System Locale: ..)  
+
+		# the result will be in:  
+		# /etc/locale.conf  
+
+	> localectl set-keymap KEYMAP # (for Virtual Console: ..)  
+
+		# the result will be in:   
+		# /etc/vconsole.conf (settings for Virtual Console)  
+
+	> localectl set-x11-keymap LAYOUT [ MODELS [ VARIANTS [OPTIONS] ] ]  
+		# the result will be in:  
+		# /etc/X11/xorg.conf.d/00-keyboard.conf  (settings for graphical mode ~ X11)  
