@@ -118,7 +118,7 @@
 
 		 #	/usr/share/X11/xkb/types  
 
-2.  ### Change Language and Encoding  
+2.  ### Change Language and Encoding (FIRST METHOD)  
 	#### 2.1 TEMPORARILY    
 		# for a few time (after reboot all settings that you set will change for default)  
 		# you should set value for global param LANG  
