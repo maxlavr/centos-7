@@ -13,7 +13,6 @@
 #### HELPER LINK: [TO INSTALL MINIMAL CENTOS](../minimal/ "FOLLOW THIS LINK TO MINIMAL")  
 
 ***
-***
 
 1. ### Lets talk about 'localectl' and 'locale'  
 
@@ -186,7 +185,7 @@
 
 	> source /etc/profile.d/sh.locale  
 
-***
+****
 ***
 
 3. ### Change Language and Encoding (SECOND METHOD)  
