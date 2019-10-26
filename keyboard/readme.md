@@ -165,10 +165,12 @@
 
 	> vi /etc/locale.conf  
 
-		# add  
+	##### 2.3.2 add some params to file    
 
 	> LANG="ru_RU.utf-8"  
 	> LC_MESSAGES="ru_RU.utf-8"
+
+	##### 2.3.1 reload script locale.sh
 
 		# After making changes to the locale.conf files, they will take effect  
 		# after a system reboot, or you can force method and do:  
