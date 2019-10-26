@@ -71,6 +71,9 @@
 		# The parameters are:
 
 		# XkbRules - files of rules to be used for keyboard mapping composition  
+
+	> ls -l /usr/share/X11/xkb/rules  
+
 		# XkbModel - name of the model of your keyboard type  
 
 	> localectl list-x11-keymap-models  
@@ -95,24 +98,25 @@
 	> cat /etc/X11/xorg.conf.d/00-keyboard.conf  | less  
 	> push: / and  print: "! options"  
 
-		## FILES
-		#/usr/share/X11/xkb/compat  
+		## ANOTHER FILES  
 
-		#/usr/share/X11/xkb/compiled  
+		#	/usr/share/X11/xkb/compat  
 
-		#/usr/share/X11/xkb/geometry  
+		#	/usr/share/X11/xkb/compiled  
 
-		#/usr/share/X11/xkb/keycodes  
+		#	/usr/share/X11/xkb/geometry  
 
-		#/usr/share/X11/xkb/keymap  
+		#	/usr/share/X11/xkb/keycodes  
 
-		#/usr/share/X11/xkb/rules  
+		#	/usr/share/X11/xkb/keymap  
 
-		#/usr/share/X11/xkb/semantics  
+		#	/usr/share/X11/xkb/rules  
 
-		# /usr/share/X11/xkb/symbols  
+		#	/usr/share/X11/xkb/semantics  
 
-		# /usr/share/X11/xkb/types  
+		#	/usr/share/X11/xkb/symbols  
+
+		#	/usr/share/X11/xkb/types  
 
 2.  ### Change Language and Encoding  
 	#### 2.1 TEMPORARILY    
