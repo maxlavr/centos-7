@@ -100,23 +100,23 @@
 
 		## ANOTHER FILES  
 
-		#	/usr/share/X11/xkb/compat  
+		 #	/usr/share/X11/xkb/compat  
 
-		#	/usr/share/X11/xkb/compiled  
+		 #	/usr/share/X11/xkb/compiled  
 
-		#	/usr/share/X11/xkb/geometry  
+		 #	/usr/share/X11/xkb/geometry  
 
-		#	/usr/share/X11/xkb/keycodes  
+		 #	/usr/share/X11/xkb/keycodes  
 
-		#	/usr/share/X11/xkb/keymap  
+		 #	/usr/share/X11/xkb/keymap  
 
-		#	/usr/share/X11/xkb/rules  
+		 #	/usr/share/X11/xkb/rules  
 
-		#	/usr/share/X11/xkb/semantics  
+		 #	/usr/share/X11/xkb/semantics  
 
-		#	/usr/share/X11/xkb/symbols  
+		 #	/usr/share/X11/xkb/symbols  
 
-		#	/usr/share/X11/xkb/types  
+		 #	/usr/share/X11/xkb/types  
 
 2.  ### Change Language and Encoding  
 	#### 2.1 TEMPORARILY    
