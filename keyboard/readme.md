@@ -57,7 +57,7 @@
 
 		# infomations of this output located in /usr/lib/locale/locale-archive  
 
-	#### 1.3 localectl  (XKB configuration)
+	#### 1.3 localectl  (+ XKB configuration)
 
 	#### THIS LINK CAN HELP YOU [XKB-CONFIGURATION-GUIDE](https://www.x.org/releases/current/doc/xorg-docs/input/XKB-Config.html#Basic_Configuration  "XKB Configuration Guide")  
 
@@ -124,7 +124,6 @@
 		 #	/usr/share/X11/xkb/types  
 
 ***
-***
 
 2. ### Change Language and Encoding (FIRST METHOD)  
 	#### 2.1 TEMPORARILY    
@@ -185,7 +184,6 @@
 
 	> source /etc/profile.d/sh.locale  
 
-****
 ***
 
 3. ### Change Language and Encoding (SECOND METHOD)  
