@@ -1,5 +1,9 @@
 # This is guide aboute configuration keyborad in centos-7
 
+1. ### Lets talk about 'localectl' and 'locale'  
+2. ### Change Language and Encoding (FIRST METHOD)  
+
+
 ### Notice
 	I recommended first of all to configure the basic/minimal tools in your system,  
 	but you can to do it later. This is your choice, this is your life)  
@@ -118,7 +122,7 @@
 
 		 #	/usr/share/X11/xkb/types  
 
-2.  ### Change Language and Encoding (FIRST METHOD)  
+2. ### Change Language and Encoding (FIRST METHOD)  
 	#### 2.1 TEMPORARILY    
 		# for a few time (after reboot all settings that you set will change for default)  
 		# you should set value for global param LANG  
@@ -177,4 +181,5 @@
 
 	> source /etc/profile.d/sh.locale  
 
-		
+3. ### Change Language and Encoding (SECOND METHOD)  
+
