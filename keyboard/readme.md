@@ -173,7 +173,7 @@
 	##### 2.3.1 reload script locale.sh
 
 		# After making changes to the locale.conf files, they will take effect  
-		# after a system reboot, or you can force method and do:  
+		# after a system reboot, or you can use force method and do:  
 
 	> source /etc/profile.d/sh.locale  
 
