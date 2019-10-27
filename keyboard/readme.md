@@ -242,7 +242,7 @@
 	![img5](./imgs/5.png)  
 
 		# ru,us - languages that you will use in GUI and change by combinatoin of keys: alt+shift  
-		# macintosh - model of your keyborad and mac variant of position keys on keyborad(most popular pc104, pc105, dvorak and others)  
+		# macintosh - model of your keyborad(most popular pc104, pc105) and mac variant of position keys on keyborad(most popular dvorak and others)  
 		# we need another reboot for the changes to take effect from our config, let's start  
 
 	##### 3.2 use setxkbmap  
@@ -252,6 +252,19 @@
 	
 	> setxkbmap [-model xkb_model] [-layout xkb_layout] [-variant xkb_variant] [-option xkb_options]  
 
+		# to change the layout, enter (-layout - the standard flag):  
+
+	> setxkbmap xkb_layout
+
+		# for multiple settings  
+
+	> setxkbmap -model macintosh -layout us,ru -variant mac, -option grp:alt_shift_toggle
+
+		# or
+
+	> setxkbmap -model pc105 -layout us,ru -variant dvorak, -option grp:alt_shift_toggle
+
+		# and etc ...  
 
 	##### THIS LINK CAN HELP YOU TO KNOW WHAT IS [SETXKBMAP](https://wiki.archlinux.org/index.php/Xorg_(Русский)/Keyboard_configuration_(Русский))  
 
