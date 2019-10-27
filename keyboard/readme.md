@@ -10,6 +10,11 @@
 
 
 
+
+
+##### DON'T MISS AN EXAMPLE PLEASE  
+
+
 #### HELPER LINK: [TO INSTALL MINIMAL CENTOS](../minimal/ "FOLLOW THIS LINK TO MINIMAL")  
 
 ***
