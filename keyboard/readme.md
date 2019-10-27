@@ -8,10 +8,10 @@
 	I recommended first of all to configure the basic/minimal tools in your system,  
 	but you can to do it later. This is your choice, this is your life)  
 
-	***
 
-#### DON'T MISS AN EXAMPLE PLEASE  
-
+***
+#### DON'T MISS AN EXAMPLE BELOW PLEASE  
+***
 
 #### HELPER LINK: [TO INSTALL MINIMAL CENTOS](../minimal/ "FOLLOW THIS LINK TO MINIMAL")  
 
