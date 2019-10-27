@@ -245,6 +245,7 @@
 		# macintosh - model of your keyborad and mac variant of position keys on keyborad(most popular pc104, pc105, dvorak and others)  
 		# we need another reboot for the changes to take effect from our config, let's start  
 
-
 	##### 3.2 use setxkbmap  
-		# it will be later  
+		# this util is very similar localectl  
+	##### THIS LINK CAN HELP TO KNOW WHAT IS ![SETXKBMAP](https://wiki.archlinux.org/index.php/Xorg_(Русский)/Keyboard_configuration_(Русский))  
+
