@@ -216,7 +216,7 @@
 
 	![img1](./imgs/1.png)  
 
-		#set up the locale, type:
+		#set up the 'System Locale', type:
 
 	> localectl set-locale LANG="ru_RU.utf8"  
 
@@ -227,11 +227,21 @@
 
 	![img3](./imgs/3.png)  
 
-		# after we need to configure virtual console keymap, type:  
+		# after we need to configure 'VC(Virtual Console) Keymap, type:  
 		# ps. my will be 'ru', your can be the same or diff
 
 	> localectl set-keymap ru  
 
 	![img4](./imgs/4.png)  
 
-		#end  
+		# and if you wanna set up locale for GUI mode type next:  
+		# example: localectl set-x11-keymap LAYOUT [ MODELS [ VARIANTS [OPTIONS] ] ]  
+
+	> localectl set-x11-keymap ru,us macintosh mac grp:alt_shift_toggle  
+
+	![img5](./imgs/5.png)  
+
+		# ru,us - languages that you will use in GUI and change by combinatoin of keys: alt+shift  
+		# macintosh - model of your keyborad and mac variant of position keys on keyborad(most popular pc104, pc105, dvorak and others)  
+		# we need another reboot for the changes to take effect from our config, let's start  
+
