@@ -222,4 +222,16 @@
 
 	![img2](./imgs/2.png)  
 
-		#
+		# we have some diffrents -> REBOOT  
+		# let's check once more  
+
+	![img3](./imgs/3.png)  
+
+		# after we need to configure virtual console keymap, type:  
+		# ps. my will be 'ru', your can be the same of diff
+
+	> localectl set-keymap ru  
+
+	![img4](./imgs/4.png)  
+
+		#end  
