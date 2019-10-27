@@ -247,5 +247,12 @@
 
 	##### 3.2 use setxkbmap  
 		# this util is very similar localectl  
+
+		# this is template to set up:  
+	
+	> setxkbmap [-model xkb_model] [-layout xkb_layout] [-variant xkb_variant] [-option xkb_options]  
+
+
 	##### THIS LINK CAN HELP YOU TO KNOW WHAT IS [SETXKBMAP](https://wiki.archlinux.org/index.php/Xorg_(Русский)/Keyboard_configuration_(Русский))  
+
 
