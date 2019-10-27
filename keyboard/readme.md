@@ -188,7 +188,7 @@
 
 3. ### Change Language and Encoding (SECOND METHOD)  
 
-	##### 3.1.1 use localectl  
+	##### 3.1 use localectl  
 
 		# for default template is:  
 
@@ -245,3 +245,6 @@
 		# macintosh - model of your keyborad and mac variant of position keys on keyborad(most popular pc104, pc105, dvorak and others)  
 		# we need another reboot for the changes to take effect from our config, let's start  
 
+
+	##### 3.2 use setxkbmap  
+		# it will be later  
