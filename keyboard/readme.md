@@ -228,7 +228,7 @@
 	![img3](./imgs/3.png)  
 
 		# after we need to configure virtual console keymap, type:  
-		# ps. my will be 'ru', your can be the same of diff
+		# ps. my will be 'ru', your can be the same or diff
 
 	> localectl set-keymap ru  
 
