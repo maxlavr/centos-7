@@ -214,12 +214,12 @@
 	### EXAMPLE:  
 		# now we have this station:  
 
-	![img1](../imgs/1.png)  
+	![img1](./imgs/1.png)  
 
 		#set up the locale, type:
 
 	> localectl set-locale LANG="ru_RU.utf8"  
 
-	![img2](../imgs/2.png)  
+	![img2](./imgs/2.png)  
 
 		#
