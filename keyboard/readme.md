@@ -247,5 +247,5 @@
 
 	##### 3.2 use setxkbmap  
 		# this util is very similar localectl  
-	##### THIS LINK CAN HELP TO KNOW WHAT IS ![SETXKBMAP](https://wiki.archlinux.org/index.php/Xorg_(Русский)/Keyboard_configuration_(Русский))  
+	##### THIS LINK CAN HELP YOU TO KNOW WHAT IS [SETXKBMAP](https://wiki.archlinux.org/index.php/Xorg_(Русский)/Keyboard_configuration_(Русский))  
 
