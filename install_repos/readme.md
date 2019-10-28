@@ -48,4 +48,4 @@
 	> wget http://centos7.iuscommunity.org/ius-release.rpm  
 	> sudo rpm -Uvh ius-release*.rpm  
 
-	![img4](./imgs/4,png)  
+	![img4](./imgs/4.png)  
