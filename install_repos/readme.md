@@ -16,7 +16,7 @@
 
 > yum install epel-release
 
-![img2](../minimal/imgs/2png)  
+![img2](../minimal/imgs/2.png)  
 
 2. # SCL  
  
