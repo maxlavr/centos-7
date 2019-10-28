@@ -22,6 +22,18 @@
 
 	> yum install centos-release-scl  
 
-	![img3](./imgs/1.png)  
+	![img1](./imgs/1.png)  
 
- 
+3. ### REMI COLLECT  
+
+	# Remi Collet contains big collection of update packeges for CentOS from project Remi RPM.  
+	# The repo is EPEL dependent.  
+	# Notice the packages from this repo have the same names as an official, therefore,  
+	# it may cause an unwanted update, so be careful  
+
+	# for install we need download rpm package, do:  
+
+	> wget http://rpms.famillecollet.com/enterprise/remi-release-7.rpm  
+	> sudo rpm -Uvh remi-release-7*.rpm  
+
+	![img3](./imgs/3.png)  
