@@ -14,4 +14,11 @@
 
 ![img1](./imgs/1.png)  
 
-	#end
+	# type enter to find  
+
+![img2](./img/2.png)
+
+	# find this string  
+
+
+	
