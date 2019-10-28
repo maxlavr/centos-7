@@ -63,5 +63,10 @@
 	# 347	1600×1200	32  
 
 
+	# after type your QUALITY please save your changes  
+	# and save configuration grub2  
 
+> grub2-mkconfig /boot/grub2/grub.conf  
+
+![img3](./imgs/3.png)  
 	
