@@ -1,4 +1,4 @@
-### Change video quality of console  
+### Change screen resolution of console  
 
 	this is a short manual how to change media quality of your conosole(ttys)  
 	in this artical we will talk about method with edit grub2 configuration  
@@ -63,12 +63,12 @@
 	# 347	1600×1200	32  
 
 
-	# after type your QUALITY please save your changes  
+	# after type your RESOLUTION please save your changes  
 	# and save configuration grub2  
 
 > grub2-mkconfig /boot/grub2/grub.conf  
 
 ![img3](./imgs/3.png)  
 
-	# plaease reboot and enjoy your new video quality  
+	# plaease reboot and enjoy your new screen resolution  
 	
