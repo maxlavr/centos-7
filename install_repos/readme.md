@@ -24,7 +24,7 @@
 
 	![img1](./imgs/1.png)  
 
-3. ### REMI COLLECT  
+3. ### REMI COLLET  
 
 		# Remi Collet contains big collection of update packeges for CentOS from project Remi RPM.  
 		# The repo is EPEL dependent.  
@@ -37,3 +37,15 @@
 	> sudo rpm -Uvh remi-release-7*.rpm  
 
 	![img3](./imgs/3.png)  
+
+4. IUS  
+
+		# this is official repo with newest(latest) versions of packages of RedHat  
+		# here, the package names differ from the ones used in the default repository from CentOS,  
+		# so there will be no problems with the update  
+		# to install the CentOS 7 repository, run  
+
+	> wget http://centos7.iuscommunity.org/ius-release.rpm  
+	> sudo rpm -Uvh ius-release*.rpm  
+
+	![img4](./imgs/4,png)  
