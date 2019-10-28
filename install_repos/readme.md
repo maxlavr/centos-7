@@ -14,14 +14,14 @@
 
 1. ### EPEL  
 
-> yum install epel-release
+	> yum install epel-release
 
-![img2](../minimal/imgs/2.png)  
+	![img2](../minimal/imgs/2.png)  
 
 2. ### SCL  
 
-> yum install centos-release-scl  
+	> yum install centos-release-scl  
 
-![img3](./imgs/1.png)  
+	![img3](./imgs/1.png)  
 
  
