@@ -16,7 +16,7 @@
 
 	# type enter to find  
 
-![img2](./img/2.png)
+![img2](./imgs/2.png)
 
 	# find this string  
 
