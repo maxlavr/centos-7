@@ -26,12 +26,12 @@
 
 3. ### REMI COLLECT  
 
-	# Remi Collet contains big collection of update packeges for CentOS from project Remi RPM.  
-	# The repo is EPEL dependent.  
-	# Notice the packages from this repo have the same names as an official, therefore,  
-	# it may cause an unwanted update, so be careful  
+		# Remi Collet contains big collection of update packeges for CentOS from project Remi RPM.  
+		# The repo is EPEL dependent.  
+		# Notice the packages from this repo have the same names as an official, therefore,  
+		# it may cause an unwanted update, so be careful  
 
-	# for install we need download rpm package, do:  
+		# for install we need download rpm package, do:  
 
 	> wget http://rpms.famillecollet.com/enterprise/remi-release-7.rpm  
 	> sudo rpm -Uvh remi-release-7*.rpm  
