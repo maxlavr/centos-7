@@ -22,6 +22,6 @@
 
 > yum install centos-release-scl  
 
-![img3](../imgs/1.png)  
+![img3](./imgs/1.png)  
 
  
