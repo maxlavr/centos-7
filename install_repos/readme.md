@@ -70,7 +70,7 @@
 
 	> vi /etc/yum.repos.d/[repo].repo 
 
-		# if you wanna disable epel repo for always: find config file epel.repo and open it
+		# if you wanna disable epel repo forever: find config file epel.repo and open it
 
 	> vi /etc/yum.repos.d/epel.repo  
 
