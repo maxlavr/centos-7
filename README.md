@@ -8,4 +8,5 @@ this is minimal instuctions for OS Linux Centos-7-minimal
 * network
 * reset_passwd
 * keyboard  
+* screen_resolution_console  
 * install_repos  
