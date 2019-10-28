@@ -38,7 +38,7 @@
 
 	![img3](./imgs/3.png)  
 
-4. IUS  
+4. ### IUS  
 
 		# this is official repo with newest(latest) versions of packages of RedHat  
 		# here, the package names differ from the ones used in the default repository from CentOS,  
@@ -49,3 +49,38 @@
 	> sudo rpm -Uvh ius-release*.rpm  
 
 	![img4](./imgs/4.png)  
+
+5. ### NUX-DEXTOP  
+
+		# there are repositories that will be useful for those who want to use CentOS as a home system  
+		# this repository contains various additional software, video codecs, players, and so on  
+		# ti install do:  
+	
+	> wget http://li.nux.ro/download/nux/dextop/el7/x86_64/nux-dextop-release-0-5.el7.nux.noarch.rpm  
+	> sudo yum install -y nux-dextop*  
+
+6. ### Delete and disable repositories  
+
+	#### 6.1 disable  
+		# For example, you can disable storage for the duration of the command:  
+		# yum update --disablerepo=[repo]
+		# ex: yum update --disable=remi	 
+
+		# if you need to disable the repository forever, then you will have to edit the repository file:
+
+	> vi /etc/yum.repos.d/[repo].repo 
+
+		# if you wanna disable epel repo for always: find config file epel.repo and open it
+
+	> vi /etc/yum.repos.d/epel.repo  
+
+		# edit enable=1 to enable=0  
+
+	#### 6.2 delete  
+		# yum remove [repo]
+
+		# if you wanna  delete epel repo type:  
+	
+	> yum remove epel-release  
+
+ 
