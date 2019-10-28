@@ -69,4 +69,6 @@
 > grub2-mkconfig /boot/grub2/grub.conf  
 
 ![img3](./imgs/3.png)  
+
+	# plaease reboot and enjoy your new video quality  
 	
