@@ -12,11 +12,16 @@
 
 ***  
 
-1. # EPEL  
+1. ### EPEL  
 
 > yum install epel-release
 
 ![img2](../minimal/imgs/2.png)  
 
-2. # SCL  
+2. ### SCL  
+
+> yum install centos-release-scl  
+
+![img3](../imgs/1.png)  
+
  
