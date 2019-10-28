@@ -11,3 +11,12 @@
 ###### before you wanna configure repolist, please follow [MINIMAL INSTALL CENTOS-7](https://github.com/maxlavr/centos-7/minimal/ "FOLLOW TO INSTALL")  
 
 ***  
+
+1. # EPEL  
+
+> yum install epel-release
+
+![img2](../minimal/imgs/2png)  
+
+2. # SCL  
+ 
