@@ -79,15 +79,15 @@
 
 	> vga=ask  
 
-		# after rebuild grub2  
+			# after rebuild grub2  
 
 	> grub2-mkconfig /boot/grub2/grub.conf  
 
-		# and reboot  
+			# and reboot  
 
 	![ask](./imgs/ask.png)  
 
-		# after type 'enter' choose you resolution from the table and enjoy  
+			# after type 'enter' choose you resolution from the table and enjoy  
   
 
 	
