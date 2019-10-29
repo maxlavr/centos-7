@@ -3,7 +3,7 @@
 	this is a short manual how to change media quality of your conosole(ttys)  
 	in this artical we will talk about method with edit grub2 configuration  
 
-1. ### step 1 configure grub2  
+1. ### open config file grub2  
 
 		###### open your grub  
   
@@ -15,6 +15,8 @@
 	![img1](./imgs/1.png)  
 
 		# type enter to find and find string below  
+
+2. ### edit this conf file by add param 'vga='
 
 	![img2](./imgs/2.png)
 
@@ -62,6 +64,7 @@
 		# 345	1280×1024	32  
 		# 347	1600×1200	32  
 
+3. ### rebuild grub2  
 
 		# after type your RESOLUTION please save your changes  
 		# and save configuration grub2  
@@ -71,4 +74,20 @@
 	![img3](./imgs/3.png)  
 
 		# plaease reboot and enjoy your new screen resolution  
+
+#### PS. IF YOU DON'T KNOW WHAT SCREEN RESOLUTION PUT IN VALUE 'VGA' print:  
+
+	> vga=ask  
+
+		# after rebuild grub2  
+
+	> grub2-mkconfig /boot/grub2/grub.conf  
+
+		# and reboot  
+
+	![ask](./imgs/ask.png)  
+
+		# after type 'enter' choose you resolution from the table and enjoy  
+  
+
 	
